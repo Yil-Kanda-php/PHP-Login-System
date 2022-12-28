@@ -1,0 +1,8 @@
+.btn-sticky {
+  bottom: 0rem;
+  width: 3rem;
+  width: 3rem;
+  right: 0rem;
+  z-index: 100;
+  position: fixed;
+}
